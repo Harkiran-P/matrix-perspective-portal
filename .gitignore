@@ -21,4 +21,4 @@ Thumbs.db
 # Project specific
 *.mp4
 *.avi
-test_*.py
+test_*.py.venv/
